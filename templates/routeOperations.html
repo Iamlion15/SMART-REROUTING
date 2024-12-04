@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real time traffic Rerouting System</title>
+    <link href="{{ url_for('static', filename='css/output.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="bg-gradient-to-br from-blue-500 to-blue-400 min-h-screen flex flex-col">
+    <header class="py-4 px-6 ">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold text-white">Smart Routing System</h1>
+        </div>
+    </header>
+
+    <main class="flex-grow flex items-center justify-center px-4">
+        <div class="container mx-auto">
+            <div class="bg-white rounded-lg shadow-2xl overflow-hidden max-w-md mx-auto">
+                <div class="p-8">
+                    <h2 class="font-['Nunito'] text-3xl font-bold mb-6 text-gray-800 text-center">Enter Destination</h2>
+                    <form class="space-y-6" method="gets" action="/route">
+                        <div>
+                            <label for="destination" class="block text-sm font-medium text-gray-700 mb-1">Destination</label>
+                            <input type="text" id="destination" name="destination"  required
+                                   class="block w-full px-4 py-3 rounded-md border-blue-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 transition duration-150 ease-in-out"
+                                   placeholder="Enter your destination">
+                        </div>
+                        <div>
+                            <label for="current-location" class="block text-sm font-medium text-gray-700 mb-1">Current Location</label>
+                            <input type="text" id="current-location" name="origin" required
+                                   class="block w-full px-4 py-3 rounded-md border-blue-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 transition duration-150 ease-in-out"
+                                   placeholder="Enter your current location">
+                        </div>
+                        <div class="pt-4">
+                            <button type="submit" 
+                                    class="w-full bg-blue-600 text-white px-6 py-3 rounded-md font-semibold text-sm uppercase tracking-wider transition duration-200 ease-in-out hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
+                                Get Route
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="py-5 px-4 md:px-8 mt-auto">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
+            <div class="mb-4 md:mb-0">
+                <h2 class="text-xl font-serif text-white">Team 4</h2>
+            </div>
+            <div class="text-sm text-gray-600">
+                <div class="flex gap-4 text-white">
+                    <span>© 2024</span>
+                    <span>Smart Routing System Team</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

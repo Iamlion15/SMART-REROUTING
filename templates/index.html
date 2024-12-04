@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real time traffic Rerouting System</title>
+    <link href="{{ url_for('static', filename='css/output.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="bg-white">
+    <header class="py-4 px-6 container mx-auto flex justify-between items-center border-b border-gray-200">
+        <div class="flex items-center">
+            <h1 class="text-2xl font-bold text-gray-800">Smart Routing System</h1>
+        </div>
+        <a href="check-route" class="inline-block relative group">
+                <div  class="bg-gray-800 text-white px-6 py-2 font-sans transition-all duration-300 group-hover:bg-gray-700 inline-block">
+                    Plan route
+                </div>
+            <div class="absolute -top-0.5 -right-0.5 -bottom-0.5 -left-0.5 border border-blue-500"></div>
+            </a>       
+    </header>
+    <div class="container mx-auto px-4 py-12">
+        <div class="bg-gradient-to-br from-blue-500 to-blue-400 rounded-3xl overflow-hidden">
+            <div class="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-12 p-12">
+                <div class="lg:w-1/2">
+                    <img src="../static/img/banner1.png" alt="Traffic Management Illustration" class="w-full h-auto">
+                </div>
+                <div class="lg:w-1/2 text-white">
+                    <h1 class="font-['Nunito'] text-5xl font-bold mb-8 leading-tight">
+                        Smart Traffic Rerouting system
+                    </h1>
+                    <p class="font-['Nunito'] text-lg mb-8 opacity-90 leading-relaxed">
+                        The Smart Rerouting System in Angola is an advanced traffic management solution designed to
+                        optimize road usage by providing real-time alternative routes, reducing congestion and travel
+                        times for commuters.
+                    </p>
+                    <a href="check-route" class="inline-block relative group">
+                        <button
+                            class="bg-gray-800 text-white px-6 py-2 font-sans transition-all duration-300 group-hover:bg-gray-700">
+                            Plan route
+                        </button>
+                        <div class="absolute -top-0.5 -right-0.5 -bottom-0.5 -left-0.5 border border-white-100"></div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="py-5 px-4 md:px-8 border-t border-gray-200">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
+            <div class="mb-4 md:mb-0">
+                <h2 class="text-xl font-serif">Team 4</h2>
+            </div>
+            <div class="text-sm text-gray-600">
+                <div class="flex gap-4">
+                    <span>© 2024</span>
+                    <span>Smart Routing System Team</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
