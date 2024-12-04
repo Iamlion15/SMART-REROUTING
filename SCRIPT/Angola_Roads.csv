@@ -1,0 +1,409 @@
+X,Y,ET_ID,LINKNO,ROADNO,STARTKM,ENDKM,LENGTHKM,STARTDESC,ENDDESC,CLASS,REGION,WIDTH,LANES,SURFTYPE,CONDITION,AADT,PAVEMTYPE,COMMENT
+13.1413510339309,-6.91420233115085,,210-02,EN210,0,44.24,44.24,CASA DA TELHA,TOMBOCO,Primary,ZAIRE,7.9,2,Paved,Good,415,Paved,
+13.3501364421843,-8.17300319684819,,100-10,EN100,0,113.3,113.3,BRIDGE FREITAS MORNA,CAXITO,Primary,BENGO,7,2,Paved,Good,185,Paved,
+13.4042433533638,-7.85293489612576,,220-01,EN220,0,81.52,81.52,Ambriz,Bela Vista,Primary,BENGO,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+12.8870129881704,-7.44686030863264,,100-08,EN100,0,51.58,51.58,N'ZETO,MUSSERRA,Primary,ZAIRE,7,2,Paved,Good,185,Paved,
+13.6473955455865,-9.21059613763443,,110-03,EN110,0,21.02,21.02,CATETE,CABALA,Primary,BENGO,7.9,2,Paved,Good,350,Paved,
+13.5833723945788,-9.00799887659232,,110-02,EN110,0,36.9,36.9,FUNDA,CATETE,Primary,BENGO,7.9,2,Paved,Good,900,Paved,
+13.3878247147463,-8.70715243136162,,100-11,EN100,0,60.23,60.23,CAXITO,LUANDA,Primary,LUANDA,7,2,Paved,Good,2137,Paved,
+13.6097440716838,-8.58083917340025,,225-01,EN225,0,4.57,4.57,Caxito (Prox.),Sassa,Primary,BENGO,7.9,2,Paved,Good,200,Paved,2 assumptions made: Based on map information road is paved and traffic assumed a maximum of 200 cars/day
+14.6884343102451,-8.35021607838482,,120-11,EN120,0,25.53,25.53,VISTA ALEGRE,PONTE DO SANGUE,Primary,UIGE,8,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.1418622410712,-7.65998255053285,,220-11,EN220,0,31.24,31.24,U°ge,Negage,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+15.2286888929455,-7.60297478061112,,140-05,EN140,0,36.48,36.48,BUNGO,NEGAGE,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.8987460027402,-7.4249348361822,,220-14,EN220,0,35.41,35.41,AlfÉndega,Sanza Pombo,Primary,UIGE,7.9,2,Paved,Good,200,Paved,2 assumptions made: Based on map information road is paved and traffic assumed a maximum of 200 cars/day
+15.2778028699401,-7.93712845087027,,140-06,EN140,0,59.54,59.54,NEGAGE,CAMABATELA,Primary,UIGE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.3268881068296,-11.7829585379511,,120-22,EN120,0,113.67,113.67,WAKO-KUNGO,ALTO HAMA,Primary,CUANZA SUL,7,2,Paved,Good,1029,Paved,
+14.5350254582348,-9.96133370204238,,120-19,EN120,0,85.23,85.23,ALTO DONDO,LUCUSSO,Primary,CUANZA SUL,7,2,Paved,Good,1029,Paved,
+13.4545348605554,-9.02899082903334,,230-02,EN230,0,46.45,46.45,Viana,Catete,Primary,LUANDA,7.9,2,Paved,Good,5523,Paved,
+13.412351088684,-10.0315093864066,,100-14,EN100,0,99.96,99.96,CABO LEDO,RIO LONGA,Primary,BENGO,7,2,Paved,Good,900,Paved,
+12.9782227191416,-9.09044104272512,,100-12,EN100,0,72.34,72.34,LUANDA,BARRA DO KWANZA,Primary,LUANDA,7,2,Paved,Good,7506,Paved,
+14.6489097054003,-9.48916925532406,,120-18,EN120,0,61.02,61.02,N'DALATANDO,ALTO DONDO,Primary,CUANZA NORTE,7,2,Paved,Good,718,Paved,
+15.8835690890025,-9.47387632723366,,230-09,EN230,0,62.07,62.07,Cacuso,Lombe,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+17.4527027132685,-9.46060156310285,,230-16,EN230,0,78.21,78.21,Xandel,Xamuteba,Primary,LUNDA NORTE,7.9,2,Paved,Good,500,Paved,
+18.0182170102836,-8.90048354414538,,165-03,EN165,0,61.09,61.09,LUREMO,CUANGO,Primary,LUNDA NORTE,7.9,2,Paved,Good,182,Paved,8KM TRACK - Condition Poor
+18.8189706856432,-9.60830669569647,,230-19,EN230,0,92.96,92.96,Capenda Camulemba,Xinge,Primary,LUNDA NORTE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+19.5356887246085,-10.044291769931,,230-21,EN230,0,91.53,91.53,Caculo,Mona Quimbundo,Primary,LUNDA SUL,7.9,2,Paved,Good,1184,Paved,
+21.0599590625651,-9.83915847820396,,230-23,EN230,0,104.7,104.7,Saurimo,Murienge,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.3779492142965,-14.4887337256285,,180-12,EN180,0,81.1,81.1,LUMBALA-NGUIMBO,NINDA,Primary,MOXICO,5.5,2,Unpaved,Poor,72,Track,25KM Paved - Condition Good
+19.9291202839823,-11.629496093054,,180-07,EN180,0,53.48,53.48,BUCACO,LUENA,Primary,MOXICO,7.9,2,Paved,Good,801,Paved,
+20.2149501165755,-10.3615352671845,,180-04,EN180,0,164.9,164.9,SAURIMO,DALA,Primary,LUNDA SUL,7.9,2,Paved,Good,522,Paved,
+20.5035905845543,-9.11419179498333,,180-03,EN180,0,147.84,147.84,CAITA,SAURIMO,Primary,LUNDA SUL,7.9,2,Paved,Good,945,Paved,75KM TRACK - Condition Poor
+20.7341288394477,-7.76469915582772,,180-01,EN180,0,95.48,95.48,DUNDO,CAMISSOMBO,Primary,LUNDA NORTE,7.9,2,Paved,Good,170,Paved,16KM TRACK - Condition Poor
+13.78167331348,-11.4727561186334,,100-17,EN100,0,64.49,64.49,SUMBE,RIO E VALE,Primary,CUANZA SUL,7,2,Paved,Good,806,Paved,
+14.8506851394887,-10.4770479617031,,120-20,EN120,0,61.7,61.7,LUCUSSO,QUIBALA,Primary,CUANZA SUL,7,2,Paved,Good,1029,Paved,
+14.768232665456,-10.777179589244,,240-02,EN240,0,80.5,80.5,Gabela,Quibala,Primary,CUANZA SUL,7.9,2,Paved,Good,405,Paved,
+15.3724335241581,-12.8507986709103,,260-06,EN260,0,44.43,44.43,Longonjo,Ca†la,Primary,HUAMBO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.1842837791542,-12.7800895775224,,100-22,EN100,0,47.46,47.46,BENGUELA,DOMBE GRANDE,Primary,BENGUELA,7,2,Paved,Good,173,Paved,
+13.9525117057492,-13.8155882565197,,105-03,EN105,0,70.1,70.1,CHONGOROI,QUILENGUES,Primary,BENGUELA,9,2,Paved,Good,1057,Paved,
+13.3645690001613,-12.8294426981414,,105-01,EN105,0,73.09,73.09,NAVEGANTES(CLOSE TO BENGUELA),CATENGUE,Primary,BENGUELA,9,2,Paved,Good,1057,Paved,
+13.4662807178197,-12.5090678341977,,100-21,EN100,0,29.5,29.5,LOBITO,BENGUELA,Primary,BENGUELA,7,2,Paved,Fair,4926,Paved,
+13.8284588468857,-12.2216786250835,,100-20,EN100,0,80.76,80.76,BALABAIA,LOBITO,Primary,BENGUELA,7,2,Paved,Good,806,Paved,
+15.1872406166989,-12.2920221761387,,250-03,EN250,0,68.12,68.12,Balombo,Luimbale,Primary,HUAMBO,7.9,2,Paved,Good,287,Paved,
+16.0134171451521,-12.3404533119652,,250-06,EN250,0,58.26,58.26,Bailundo,Catchiungo,Primary,HUAMBO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+12.2281949336265,-15.46769309642,,100-27,EN100,0,68.76,68.76,NAMIBE,S. JOAO DO SUL,Primary,NAMIBE,6,2,Paved,Good,810,Paved,
+12.5234212298491,-15.0372448285758,,280-01,EN280,0,34.68,34.68,Namibe (Prox.),Caraculo,Primary,NAMIBE,7.9,2,Paved,Good,2110,Paved,
+12.7634400164044,-15.0379341624642,,280-02,EN280,0,61.34,61.34,Caraculo,Tampa,Primary,NAMIBE,7.9,2,Paved,Good,2110,Paved,
+14.1989311396989,-14.7668337456261,,280-07,EN280,0,79.82,79.82,Toco,Quipungo,Primary,HUILA,7.9,2,Paved,Good,82,Paved,
+14.8087180840497,-14.7364815257613,,280-08,EN280,0,52.48,52.48,Quipungo,Matala,Primary,HUILA,7.9,2,Paved,Good,82,Paved,
+12.6371611962688,-13.5866698132493,,100-24,EN100,0,97.09,97.09,RIO CATARA,LUCIRA,Primary,BENGUELA,6,2,Paved,Good,81,Paved,
+14.6488712309164,-16.3758854819978,,105-10,EN105,0,74.85,74.85,CAHAMA,CATEQUERO,Primary,CUNENE,9,2,Paved,Good,1057,Paved,
+13.6097730271878,-14.8280354906754,,280-06,EN280,0,43.72,43.72,Lubango,Toco,Primary,HUILA,7.9,2,Paved,Good,82,Paved,
+13.9143151515574,-14.6192979255135,,105-05,EN105,0,47.43,47.43,CACULA,HOQUE,Primary,HUILA,9,2,Paved,Good,1057,Paved,
+16.6689141298207,-12.504549237282,,250-08,EN250,0,42.95,42.95,Chinguar,Kuito,Primary,BIE,7.9,2,Paved,Good,325,Paved,
+16.8628223395018,-12.4235637806187,,140-28,EN140,0,16.66,16.66,KUITO,CUQUEMA,Primary,BIE,7.9,2,Paved,Good,536,Paved,
+17.6301491467454,-15.2708697274388,,140-34,EN140,0,106.17,106.17,TCHINOCA,CAIUNDO,Primary,CUANDO CUBANGO,6,2,Paved,Good,407,Paved,
+17.5747111143735,-14.1873473083204,,140-32,EN140,0,102.29,102.29,MUMBUê,MENONGUE,Primary,CUANDO CUBANGO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.6895695799322,-11.9607965714188,,140-25,EN140,0,42.92,42.92,TUNDA CHISSOCOCUA,QUIBANDA,Primary,BIE,5.5,2,Unpaved,Poor,536,Track,
+16.2673617909072,-11.3864611833495,,140-21,EN140,0,20.93,20.93,CALUCINGA,CUTATO,Primary,BIE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.0202934642079,-14.4018310801539,,110-22,EN110,0,86.66,86.66,CHICOMBA,MATALA,Primary,HUILA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.1129676785762,-14.633788833946,,280-13,EN280,0,92.8,92.8,Cuchi,Menongue,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,82,Track,
+19.2165471140405,-9.97358980358031,,230-20,EN230,0,51.22,51.22,Xinge,Caculo,Primary,LUNDA NORTE,7.9,2,Paved,Good,1184,Paved,
+19.5035094387753,-8.20274954760334,,225-28,EN225,0,108.29,108.29,Camaxilo,Cu°lo,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.691957196696,-8.36541081031314,,180-02,EN180,0,34.89,34.89,CAMISSOMBO,CAITA,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.7766850843286,-8.05745436468695,,225-30,EN225,0,152.5,152.5,Caluango,Capaia,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.9011933059669,-10.5938415004886,,240-21,EN240,0,76.76,76.76,Muconda,Cassai,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.5264590942351,-10.7905992932665,,190-02,EN190,0,60.43,60.43,MUCONDA,SACAFUA,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.1653146044645,-11.4095341445866,,250-18,EN250,0,116.18,116.18,Lumege,Luacano,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.9267592840764,-11.4263976831833,,190-04,EN190,0,59.54,59.54,LUACANO,LAGO-DILOLO,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+22.6080413941145,-12.3223885303485,,190-06,EN190,0,100.61,100.61,CAZOMBO,LUMBALA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.0639332349801,-10.5951873357783,,170-08,EN170,0,77.49,77.49,CUCUMBI,ALTO CHICAPA,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.2467275747695,-12.1406848936039,,250-13,EN250,0,60.55,60.55,Cuemba,Munhango,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.7283377404447,-14.4931959055428,,160-39,EN160,0,51.33,51.33,XISSENDE,LONGA,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find place XISSENDE)
+17.7863633464946,-14.5981182808741,,280-14,EN280,0,88.47,88.47,Menongue,Longa,Primary,CUANDO CUBANGO,7.9,2,Paved,Good,2809,Paved,
+18.9160249093313,-14.8444938299144,,280-15,EN280,0,107.07,107.07,Longa,Cuito Cuanaval,Primary,CUANDO CUBANGO,7.9,2,Paved,Good,2809,Paved,
+19.7188024498634,-11.886321974158,,250-15,EN250,0,86.4,86.4,Cagumbe,Luena,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.9712930482201,-12.091637324207,,250-14,EN250,0,95.07,95.07,Munhango,Cagumbe,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.96658256907,-15.1554031736927,,170-18,EN170,0,186.51,186.51,LUANHICA,CUNJAMBA,Primary,CUANDO CUBANGO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+19.141908425143,-11.8078001696981,,170-12,EN170,0,33.91,33.91,CAMBUFA,CANGUNGE,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.4643004782753,-11.9667547298237,,160-29,EN160,0,29.67,29.67,CAIPUPA,ICIENGO,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.3013455436185,-11.045169291621,,160-24,EN160,0,55.5,55.5,QUIRIMA,SAUTAR,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.7161092234399,-11.0492072160381,,240-15,EN240,0,90.57,90.57,Sautar,Alto Chicapa,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.1723258128926,-11.0120732023228,,170-09,EN170,0,17.7,17.7,ALTO CHICAPA,CARIATA,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.2098916200253,-11.1502887857163,,180-05,EN180,0,15.14,15.14,DALA,CHIMBILA,Primary,LUNDA SUL,7.9,2,Paved,Good,801,Paved,
+19.4629872015061,-11.1950906244933,,240-16,EN240,0,65.16,65.16,Alto Chicapa,Luma Cassai,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.093948523428,-15.7945602793291,,280-19,EN280,0,73.25,73.25,Samutango,Meriquinha,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.1950932573868,-15.5952101041415,,280-17,EN280,0,50.33,50.33,Cunjamba,Mavinga,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.9176865171778,-15.2378600397041,,280-16,EN280,0,119.94,119.94,Cuito Cuanaval,Cunjamba,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.6408026929617,-16.2197124533646,,140-36,EN140,0,136.13,136.13,CABINDELE,SAVATE,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,"Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find the place ""CABINDELE"")"
+15.8376872948349,-16.8283123679297,,120-40,EN372,0,35.18,35.18,ANHANCA,ONDJIVA,Primary,CUNENE,8,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.4768697858564,-14.6507198445887,,280-09,EN280,0,84.21,84.21,Matala,Dongo,Primary,HUILA,7.9,2,Paved,Good,82,Paved,
+15.808373179545,-16.3320464083226,,120-38,EN120,0,43.47,43.47,MUPA,EVALE,Primary,CUNENE,8,2,Unpaved,Poor,415,Track,
+15.1631954766662,-16.0215994351603,,110-25,EN110,0,90.38,90.38,MULONDO,MUCOPE,Primary,CUNENE,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.199162138478,-16.9983546376246,,100-30,EN100,0,90.82,90.82,ESPINHEIRA,FOZ DO CUNENE,Primary,NAMIBE,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.523377190876,-16.4428621502056,,100-29,EN100,0,84.89,84.89,TAMBOR,ESPINHEIRA,Primary,NAMIBE,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.9059010826782,-16.4908446820066,,110-26,EN110,0,42.01,42.01,MUCOPE,HUMBE,Primary,CUNENE,6,2,Paved,Good,220,Paved,18KM TRACK - Condition Poor
+15.4963407082434,-16.8446887552568,,295-10,EN295,0,57.48,57.48,Mongua,Ondjiva,Primary,CUNENE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.8151074454751,-16.8959737762421,,295-08,EN295,0,61.78,61.78,Naulila,Xangongo,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.9331932217471,-16.9639167998656,,295-05,EN295,0,131.5,131.5,Oncocua,Chitado,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.044921260535,-10.990746723459,,240-01,EN240,0,63.35,63.35,Forno da Cal (Prox. Sumbe),Gabela,Primary,CUANZA SUL,7.9,2,Paved,Good,405,Paved,
+14.3245036969694,-12.2380288043793,,110-14,EN110,0,55.01,55.01,CHILA,MONTEBELO,Primary,BENGUELA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.3037043007551,-11.2275994146248,,110-10,EN110,0,32.58,32.58,CONDA,UKU SELES,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.2990406945739,-10.9994031525807,,110-09,EN110,0,32.94,32.94,GABELA,CONDA,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.8570242221703,-10.9979546366974,,100-16,EN100,0,65.38,65.38,PORTO AMBOIM,SUMBE,Primary,CUANZA SUL,7,2,Paved,Good,900,Paved,
+14.0076001251408,-11.364160865994,,245-03,EN245,0,39.55,39.55,Quilenda,Uku-Seles,Primary,CUANZA SUL,7.9,2,Paved,Good,507,Paved,
+15.0383401566155,-11.3975034667164,,245-08,EN245,0,28.65,28.65,Colo-Colo,Waku-Kungo,Primary,CUANZA SUL,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.0427559600866,-11.05326587259,,120-21,EN120,0,84.73,84.73,QUIBALA,WAKO-KUNGO,Primary,CUANZA SUL,7,2,Paved,Good,1029,Paved,
+15.4856979349158,-10.5961974825877,,240-05,EN240,0,58.85,58.85,Caringo,Quitubia,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.8841939866869,-9.19919458204098,,230-03,EN230,0,51.82,51.82,Catete,Maria Teresa,Primary,BENGO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.9129694009621,-9.29239713990533,,230-06,EN230,0,45.95,45.95,N'Dalatando,Lucala,Primary,CUANZA NORTE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+13.86233515862,-8.61685091738106,,225-02,EN225,0,54.5,54.5,Sassa,Ucua,Primary,BENGO,7.9,2,Paved,Good,200,Paved,2 assumptions made: Based on map information road is paved and traffic assumed a maximum of 200 cars/day
+14.6656537838781,-8.62094854073279,,120-13,EN120,0,52.46,52.46,QUIBAXE,BULA-ATUMBA,Primary,CUANZA NORTE,8,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.6288979674001,-9.08136397327114,,120-15,EN120,0,41.43,41.43,QUILOMBO DOS DEMBOS,CAMBONDO,Primary,CUANZA NORTE,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.3548146431542,-8.52342779934859,,225-13,EN225,0,12.48,12.48,Quiculungo,Pambos de Sonhe,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+16.9696516628386,-8.53196091113691,,160-13,EN160,0,32.84,32.84,MARIMBA,CHIQUITA,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.324634871211,-8.4255623945919,,225-24,EN225,0,41.65,41.65,Marimba,Caxito Cameia,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.1398888469172,-8.22243780876059,,160-12,EN160,0,46.53,46.53,MANGANDO,MARIMBA,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.3121513386959,-9.53810771358102,,230-10,EN230,0,28.27,28.27,Lombe,Malange,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.9469794817958,-9.24028817279046,,140-14,EN140,0,24.51,24.51,CALANDULA,COTA,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.552717523012,-8.49520822256566,,225-15,EN225,0,12.96,12.96,Senda,Luinga,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+16.7491173172314,-8.41202066176958,,225-23,EN225,0,45.45,45.45,Bange Angola,Marimba,Primary,MALANJE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.4049463283609,-6.93662245121805,,215-06,EN215,0,44.91,44.91,Bembe,Lucunga,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.6928199632279,-7.10569062094835,,120-06,EN120,0,73.63,73.63,LUCUNGA,SONGO,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,
+14.8591348419573,-6.69469279904388,,215-08,EN215,0,46.13,46.13,Chimacongo,Damba,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.2874505149562,-7.18550173915605,,140-04,EN140,0,67.01,67.01,31 DE JANEIRO,BUNGO,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.8926102002552,-6.48144467996605,,215-11,EN215,0,38.37,38.37,Cuilo Futa,Quinsolo,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+13.4851466283762,-6.01552467244301,,120-01,EN120,0,50.01,50.01,NOQUI,MEPALA,Primary,ZAIRE,5.5,2,Unpaved,Fair,244,Gravel,
+13.8245571513952,-6.59963593563123,,210-04,EN210,0,77.6,77.6,QUIXIMBA,QUIANDE,Primary,ZAIRE,5.5,2,Unpaved,Poor,415,Track,
+14.1155843578009,-6.13857322196035,,120-03,EN120,0,67.28,67.28,MEPOSO,M'BANZA-CONGO,Primary,ZAIRE,5.5,2,Unpaved,Poor,244,Track,
+14.5086428375679,-6.68383246757956,,120-05,EN120,0,53.84,53.84,MADIMBA,LUCUNGA,Primary,ZAIRE,5.5,2,Unpaved,Fair,75,Gravel,
+14.9655782576143,-6.50842372422499,,140-02,EN140,0,55.12,55.12,QUIBOCOLO,DAMBA,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.9302838862272,-6.02539962427896,,210-09,EN210,0,48.56,48.56,LUVACA,MAQUELA DO ZOMBO,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.5644063401547,-6.11779741183579,,210-14,EN210,0,20.5,20.5,BANZA VOGO,SUNZA,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.0865798977868,-5.68153003927383,,100-04,EN100,0,33.23,33.23,CABINDA,YEMA,Primary,CABINDA,7,2,Paved,Good,4680,Paved,
+12.0642879610979,-5.39641228045077,,100-03,EN100,0,53.16,53.16,CACONGO(LANDANA),CABINDA,Primary,CABINDA,7,2,Paved,Good,4680,Paved,
+12.0374326508677,-5.0174285770031,,100-01,EN100,0,22.31,22.31,BORDER DRC,MASSABI,Primary,CABINDA,7,2,Paved,Good,200,Paved,
+12.1453803047878,-5.13475908066953,,200-01,EN200,0,22.33,22.33,CACONGO,DINGUE,Primary,CABINDA,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+12.6498164666515,-4.7510832322329,,200-03,EN200,0,39.81,39.81,BUCU-ZAU,BELIZE,Primary,CABINDA,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+12.2414547301459,-5.16996066174199,,101-05,EN101,0,30.94,30.94,DINGE,SOCOTE,Primary,CABINDA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.4014650181382,-8.35635549236381,,140-07,EN140,0,37.38,37.38,CAMABATELA,SENDA (CLOSE),Primary,CUANZA NORTE,7.9,2,Paved,Good,178,Paved,5KM TRACK - Condition Poor
+12.4834618912148,-6.71146401066779,,100-07,EN100,0,151.81,151.81,SOYO,N'ZETO,Primary,ZAIRE,7,2,Unpaved,Poor,94,Track,35KM PAVED - Condition Good
+14.2109292663954,-10.4284223781826,,110-07,EN110,0,75.19,75.19,MUNDONDO,QUILENDA,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.0552857983811,-10.8683301093096,,240-20,EN240,0,92.95,92.95,Cazage,Muconda,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.319696749782,-5.25407061223429,,202-03,EN202,0,12.99,12.99,PEDRO COTA,ZENZE DO LUCULA(CLOSE),Primary,CABINDA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.3987762289415,-4.72671475481374,,101-01,EN101,0,18.58,18.58,SANGAMONGO,BUCOZAU,Primary,CABINDA,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+12.2801094007097,-5.47502595631023,,201-02,EN201,0,17.78,17.78,SUTAMBANDO,POVE,Primary,CABINDA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.3012292392672,-5.39875987263054,,101-06,EN101,0,17.13,17.13,SOCOTE,POVE,Primary,CABINDA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.2824560494384,-4.93412342436656,,200-02,EN200,0,42.82,42.82,DINGUE,BUCU-ZAU,Primary,CABINDA,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.5484045971574,-7.55034266125181,,220-07,EN220,0,32.75,32.75,S. JosÇ do Encoje,Nova Caipemba,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.8717155486109,-7.49159052718614,,120-07,EN120,0,38.82,38.82,SONGO,UIGE,Primary,UIGE,7.9,2,Paved,Good,2416,Paved,
+21.1791129872563,-10.277228212855,,190-01,EN190,0,86.88,86.88,MURINGE,MUCONDA,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.1282531981744,-10.1263401590195,,140-18,EN140,0,105.2,105.2,CANGANDALA,MUSSENDE,Primary,CUANZA SUL,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+12.0477911765778,-5.13241521862675,,100-02,EN100,0,19.22,19.22,MASSABI,CACONGO(LANDANA),Primary,CABINDA,7,2,Paved,Good,4680,Paved,
+13.1904641128148,-7.70997367844286,,100-09,EN100,0,35.84,35.84,MUSSERRA,BRIDGE FREITAS MORNA,Primary,ZAIRE,7,2,Paved,Good,185,Paved,
+16.1653513882957,-14.1903991063129,,120-31,EN120,0,67.6,67.6,CHICUNHO,CANGOMBE,Primary,HUILA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find place CHICUNHO)
+13.155381980008,-9.49212722537523,,100-13,EN100,0,42.7,42.7,BARRA DO KWANZA,CABO LEDO,Primary,BENGO,7,2,Paved,Good,900,Paved,
+13.710541147205,-10.5919406178334,,100-15,EN100,0,50.59,50.59,RIO LONGA,PORTO AMBOIM,Primary,CUANZA SUL,7,2,Paved,Good,900,Paved,
+12.3915480869544,-15.9080149180965,,100-28,EN100,0,70.58,70.58,S. JOAO DO SUL,TAMBOR,Primary,NAMIBE,6,2,Unpaved,Poor,810,Track,
+12.1990553453199,-16.9983762067984,,100-30,,0,90.8,90.8,ESPINHEIRA,FOZ DO CUNENE,Primary,NAMIBE,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.7876732801419,-13.2689389453015,,105-02,EN105,0,67.03,67.03,CATENGUE,CHONGOROI,Primary,BENGUELA,9,2,Paved,Good,1057,Paved,
+14.0351614228079,-14.2257117904483,,105-04,EN105,0,48.58,48.58,QUILENGUES,CACULA,Primary,HUILA,9,2,Paved,Good,1057,Paved,
+13.638223749223,-15.0242257307251,,105-07,EN105,0,38.84,38.84,LUBANGO,CHIBIA,Primary,HUILA,9,2,Paved,Good,1057,Paved,
+14.0705267138317,-15.4565288158337,,105-08,EN105,0,86.92,86.92,CHIBIA,TCHIBEMBA,Primary,HUILA,9,2,Paved,Good,1057,Paved,
+14.1926000582509,-15.983504963713,,105-09,EN105,0,64.77,64.77,TCHIBEMBA,CAHAMA,Primary,HUILA,9,2,Paved,Good,1057,Paved,
+14.867522080177,-13.5283584582239,,110-20,EN110,0,50.71,50.71,CHICUMA,CACONDA,Primary,BENGUELA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.6217985725114,-13.0440728849263,,120-25,EN120,0,46.36,46.36,CAALA,CUIMA,Primary,HUAMBO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+13.416699540145,-8.82732871145545,,110-01,EN110,0,22.1,22.1,QUIFANGONDO,FUNDA,Primary,LUANDA,7.9,2,Paved,Good,900,Paved,
+13.998305824177,-10.0185854590893,,110-06,EN110,0,40.82,40.82,CHIO,MUNDONDO,Primary,BENGO,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.9473792733184,-9.69443394398104,,110-05,EN110,0,50.38,50.38,MUXIMA,CHIO,Primary,BENGO,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.3185009071453,-10.750644179538,,110-08,EN110,0,24.35,24.35,QUILENDA,GABELA,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.3126579068964,-11.5605138591583,,110-11,EN110,0,45.18,45.18,UKU SELES,CATANDA,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.4954506704709,-11.8060563730123,,110-12,EN110,0,19.9,19.9,CATANDA,ATOME,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.5163885612338,-11.965203658162,,110-13,EN110,0,24.68,24.68,ATOME,CHILA,Primary,BENGUELA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.6219880266846,-13.1698693279252,,110-18,EN110,0,43.35,43.35,GANDA,CASSENDE,Primary,BENGUELA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.7678745971685,-13.3611230689004,,110-19,EN110,0,13.39,13.39,CASSENDE,CHICUMA,Primary,BENGUELA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.0042117936513,-13.9052200792797,,110-21,EN110,0,49.01,49.01,CACONDA,CHICOMBA,Primary,HUILA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.0232104632994,-14.7904079869803,,110-23,EN110,0,21.24,21.24,MATALA,FOLGARES,Primary,HUILA,6,2,Paved,Good,20,Paved,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.2691770055842,-15.2660338849691,,110-24,EN110,0,104.59,104.59,FOLGARES,MULONDO,Primary,HUILA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.7642669175669,-6.06606333416904,,120-02,EN120,0,25.62,25.62,MEPALA,MEPOSO,Primary,ZAIRE,5.5,2,Unpaved,Poor,244,Track,
+14.235858700136,-6.38476102302915,,120-04,EN120,0,34.08,34.08,M'BANZA-CONGO,MADIMBA,Primary,ZAIRE,5.5,2,Unpaved,Fair,75,Gravel,
+14.9602970869811,-7.77312173232367,,120-08,EN120,0,41.09,41.09,UIGE,QUITEXE,Primary,UIGE,7.9,2,Paved,Good,1426,Paved,
+14.9585430431463,-8.01869398996338,,120-09,EN120,0,20.71,20.71,QUITEXE,ALDEIA VICOSA,Primary,UIGE,8,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.8252323349386,-8.21164375687988,,120-10,EN120,0,30.3,30.3,ALDEIA VICOSA,VISTA ALEGRE,Primary,UIGE,8,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.7052902782676,-8.83664801147019,,120-14,EN120,0,22.42,22.42,BULA-ATUMBA,QUILOMBO DOS DEMBOS,Primary,CUANZA NORTE,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.6891784885885,-12.4635315256922,,120-23,EN120,0,70.71,70.71,ALTO HAMA,HUAMBO,Primary,HUAMBO,7,2,Paved,Good,573,Paved,
+15.5795948296825,-12.7897098908873,,120-24,EN120,0,24.34,24.34,HUAMBO,CAALA,Primary,HUAMBO,7.9,2,Paved,Good,2280,Paved,
+15.6949414474662,-13.3556870311512,,120-27,EN120,0,35.87,35.87,CALOMBO,CANDONGUE,Primary,HUAMBO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.7109781279971,-13.5458763990919,,120-27,EN120,0,12.26,12.26,CALOMBO,CANDONGUE,Primary,HUAMBO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.7216806200049,-13.6619511768879,,120-28,EN120,0,22.31,22.31,CANDONGUE,CAPUCA,Primary,HUILA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.7934526139952,-13.7810813360541,,120-29,EN120,0,14.54,14.54,CAPUCA,CHIPINDO,Primary,HUILA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.9562065415603,-15.3642799441535,,120-36,EN120,0,74.22,74.22,CASSINGA,CUVELAI,Primary,CUNENE,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.7631909181981,-15.8324218380387,,120-37,EN120,0,57.93,57.93,CUVELAI,MUPA,Primary,CUNENE,8,2,Unpaved,Poor,415,Track,
+15.8412145506464,-16.6345592328681,,120-39,EN120,0,32.33,32.33,EVALE,ANHANCA,Primary,CUNENE,8,2,Unpaved,Poor,415,Track,
+15.7780663919825,-17.1093176022413,,120-41,EN120,0,30.53,30.53,ONDJIVA,NAMACUNDE,Primary,CUNENE,8,2,Paved,Good,2850,Paved,
+15.871609371761,-17.3306019127655,,120-42,EN120,0,16.1,16.1,NAMACUNDE,OTCHICANGO (NAMIBIA BORDER),Primary,CUNENE,7.9,2,Paved,Good,2580,Paved,
+15.7151607680284,-8.66155965592323,,140-10,EN140,0,29.58,29.58,CABACA MUONGO,CAXITO,Primary,MALANJE,5.5,2,Unpaved,Fair,75,Gravel,Assumed an average of 75 cars for all gravel roads with no traffic information available.
+14.9988870296465,-6.18830315686141,,140-01,EN140,0,29.99,29.99,MAQUELA DO ZOMBO,QUIBOCOLO,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.1444763430934,-6.81889783377881,,140-03,EN140,0,26.01,26.01,DAMBA,31 DE JANEIRO,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.779268685244,-8.8350143587557,,140-11,EN140,0,17.8,17.8,CAXITO,QUITEMBO,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.7989980690194,-8.98380676834905,,140-12,EN140,0,20.84,20.84,QUITEMBO,CANDANGE,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.9313493866557,-9.13013314930907,,140-13,EN140,0,18.53,18.53,CANDANGE,CALANDULA,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.0916506402703,-9.38250480943995,,140-15,EN140,0,24.15,24.15,COTA,LOMBE,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.3690411729126,-9.63742342800053,,140-17,EN140,0,23.57,23.57,MALANGE,CANGANDALA,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.0794329905248,-10.7462322640526,,140-19,EN140,0,55.44,55.44,MUSSENDE,S. LUCAS,Primary,CUANZA SUL,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.1510310305436,-11.1253256966174,,140-20,EN140,0,46.78,46.78,S. LUCAS,CALUCINGA,Primary,BIE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.4910670887484,-11.4808282997114,,140-23,EN140,0,27.78,27.78,BUANGA,ANDULO,Primary,BIE,6,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.648887280126,-11.6240053782414,,140-24,EN140,0,39.92,39.92,ANDULO,TUNDA CHISSOCOCUA,Primary,BIE,7.9,2,Paved,Good,536,Paved,16KM TRACK - Condition Poor
+16.7904373464311,-12.2219326394208,,140-26,EN140,0,21.06,21.06,QUIBANDA,CUNHINGA,Primary,BIE,5.5,2,Unpaved,Poor,536,Track,
+16.9141845591612,-12.3528445858293,,140-27,EN140,0,20.61,20.61,CUNHINGA,KUITO,Primary,BIE,5.5,2,Unpaved,Poor,536,Track,
+16.7269897460409,-12.7563476569792,,140-29,EN140,0,77.63,77.63,CUQUEMA,CACHINGUES,Primary,BIE,7.9,2,Paved,Good,536,Paved,
+16.7131958007812,-13.2550354003906,,140-30,EN140,0,52.75,52.75,CACHINGUES,CHITEMBO,Primary,BIE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+17.0556946383035,-13.678863569105,,140-31,EN140,0,76.36,76.36,CHITEMBO,MUMBUê,Primary,BIE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+17.6413953500314,-14.7162436858792,,140-33,EN140,0,23.99,23.99,MENONGUE,TCHINOCA,Primary,CUANDO CUBANGO,6,2,Paved,Good,407,Paved,
+16.5659240736707,-7.82775252610051,,160-10,EN160,0,50.9,50.9,QUIHUHU,MACONGO,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.1334612823977,-6.38320800831783,,160-02,EN160,0,44.02,44.02,ICOLA,QUIMBELE,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.0658085564707,-6.11109371518111,,160-01,EN160,0,45.47,45.47,SACANDICA,ICOLA,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.167109713449,-6.77943085121791,,160-03,EN160,0,56.55,56.55,QUIMBELE,MACOCOLA,Primary,UIGE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.0469547023874,-7.14428103048218,,160-04,EN160,0,37.29,37.29,MACOCOLA,SANZA POMBO,Primary,UIGE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.0236449736701,-7.32143366112925,,160-05,EN160,0,18.27,18.27,SANZA POMBO,UAMBA,Primary,UIGE,5.5,2,Unpaved,Poor,58,Track,5KM PAVED - Condition Good
+16.1919384822561,-7.41493010114423,,160-06,EN160,0,30.98,30.98,UAMBA,QUICUTE,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.3659948750032,-7.56308554411415,,160-07,EN160,0,23.52,23.52,QUICUTE,QUIMESSE,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.5630472889421,-7.71555713945358,,160-09,EN160,0,16.32,16.32,QUIPANGE,QUIHUHU,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,"Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find the place ""QUIPANGE"")"
+17.0036226672875,-9.34571719764182,,160-16,EN160,0,12.88,12.88,QUELA,CATOMBA,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.2195413352923,-9.5566651308068,,160-18,EN160,0,41.93,41.93,CABATUKILA,TALAMUNGONGO,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.285271052483,-9.88531372847233,,160-19,EN160,0,39.07,39.07,TALAMUNGONGO,MUSSULO,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.3482620909383,-10.1852055153163,,160-20,EN160,0,39.76,39.76,MUSSULO,BUMBA-CABANGO,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.4605503184619,-10.4755119129751,,160-21,EN160,0,31.66,31.66,BUMBA-CABANGO,GOIFUMO,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.6467844628701,-10.665854067356,,160-22,EN160,0,28.67,28.67,GOIFUMO,LUQUEMBO,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.9658475407605,-10.8383946770692,,160-23,EN160,0,48.1,48.1,LUQUEMBO,QUIRIMA,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.5272914016962,-11.3628629305816,,160-25,EN160,0,41.04,41.04,SAUTAR,LUMBUNGULA,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.480730340692,-11.5545747506107,,160-26,EN160,0,15.88,15.88,LUMBUNGULA,LUANDO,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.2577304584783,-11.8980037534306,,160-28,EN160,0,11.99,11.99,MUACANHICA,CAIPUPA,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.3769322559599,-11.7380701750036,,160-27,EN160,0,41.95,41.95,LUANDO,MUACANHICA,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.5332194987945,-12.1912899400816,,160-31,EN160,0,6.52,6.52,MUNHANGO,SAMAJIMO,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.4218500199295,-12.550105968939,,160-32,EN160,0,79.23,79.23,SAMAJIMO,CANGOA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.5074786852087,-12.959511005809,,160-33,EN160,0,33.85,33.85,CANGOA,SACARIMBUA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.8104205696743,-13.2698670088749,,160-34,EN160,0,52.87,52.87,SACARIMBUA,TEMPUE,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.8395474398455,-13.5982063767539,,160-35,EN160,0,50,50,TEMPUE,CAMEIA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.9502299772356,-8.48423728313554,,170-01,EN170,0,30.94,30.94,CAMAXILO,CASSEMENE,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.9972510577234,-8.7920114650676,,170-02,EN170,0,56.67,56.67,CASSEMENE,CARIERIA,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.2580042935432,-9.0664437053689,,170-03,EN170,0,24.81,24.81,CARIERIA,LUBALO,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.2345633761229,-10.1880926681063,,170-07,EN170,0,33.72,33.72,CACOLO,CUCUMBI,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.2135026285079,-11.3117979519951,,170-10,EN170,0,54.74,54.74,CARIATA,SALIMBA,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.0690002384161,-11.5982361141952,,170-11,EN170,0,22.51,22.51,SALIMBA,CAMBUFA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.2373085457409,-12.2308626692874,,170-13,EN170,0,84.86,84.86,CANGUNGE,MUCONDA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.4017589420544,-13.0862698047613,,170-14,EN170,0,207.88,207.88,MUCONDA,CANGAMBA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.9150031463746,-13.9549389526999,,170-15,EN170,0,65.15,65.15,CANGAMBA,MUZAZA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.0038593834336,-14.3169950003361,,170-16,EN170,0,21.55,21.55,MUZAZA,CANGUMBE,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.1614176050409,-14.6740023770308,,170-17,EN170,0,69.38,69.38,CANGUMBE,LUANHICA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+22.2813633869869,-16.9097148498837,,180-16,EN180,0,166.59,166.59,RIVUNGO,LUIANA,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.1802747300031,-11.3286717403338,,180-06,EN180,0,29.22,29.22,CHIMBILA,BUCACO,Primary,MOXICO,7.9,2,Paved,Good,801,Paved,
+20.3077259855061,-12.1486761155062,,180-08,EN180,0,136.61,136.61,LUENA,LUCUSSE,Primary,MOXICO,7.9,2,Paved,Good,645,Paved,
+20.7256937956339,-12.7334562609971,,180-09,EN180,0,52.23,52.23,LUCUSSE,LUZI,Primary,MOXICO,7.9,2,Paved,Good,645,Paved,
+21.1839590100681,-13.2507617237143,,180-10,EN180,0,98.65,98.65,LUZI,LUTEMBO,Primary,MOXICO,7.9,2,Paved,Good,645,Paved,
+21.4341774371503,-13.8224217775692,,180-11,EN180,0,70.33,70.33,LUTEMBO,LUMBALA-NGUIMBO,Primary,MOXICO,7.9,2,Paved,Good,645,Paved,
+21.2092620123504,-14.9985420140847,,180-13,EN180,0,42.81,42.81,NINDA,CHIUME,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.3693218532105,-15.4551392621523,,180-14,EN180,0,90.95,90.95,CHIUME,NERIQUINHA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.7051414968192,-16.0795791594491,,180-15,EN180,0,86.96,86.96,NERIQUINHA,RIVUNGO,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+22.7266251228181,-12.8445922617348,,190-07,EN190,0,47.19,47.19,LUMBALA,CARIPANDE,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.7412258517682,-4.57625958166708,,200-04,EN200,0,36.28,36.28,BELIZE,MICONJE,Primary,CABINDA,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+12.1228838099309,-5.58649185489387,,201-01,EN201,0,15.32,15.32,CABASSANGO,SUTAMBANDO,Primary,CABINDA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.255493156028,-5.31399536817382,,202-02,EN202,0,19.47,19.47,SASSAZAU,PEDRO COTA,Primary,CABINDA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.9004129432744,-7.16796138705362,,210-01,EN210,0,39.22,39.22,N'ZETO,CASA DA TELHA,Primary,ZAIRE,7.9,2,Paved,Good,415,Paved,
+13.3965274773966,-6.80048000502779,,210-03,EN210,0,32.16,32.16,TOMBOCO,QUIXIMBA,Primary,ZAIRE,5.5,2,Unpaved,Poor,415,Track,
+14.0499253203443,-6.37335950501079,,210-05,EN210,0,24.09,24.09,QUIANDE,MBANZA-CONGO,Primary,ZAIRE,5.5,2,Unpaved,Poor,415,Track,
+14.2760170374874,-6.22760662193598,,210-06,EN210,0,30.73,30.73,MBANZA-CONGO,GOMBE,Primary,ZAIRE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.485301727159,-6.16671933258107,,210-07,EN210,0,23.18,23.18,GOMBE,CUIMBA,Primary,ZAIRE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.6172876804488,-6.05772290859472,,210-08,EN210,0,25.11,25.11,CUIMBA,LUVACA,Primary,ZAIRE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.8643536549134,-6.04494409745501,,210-15,EN210,0,30.74,30.74,SUNZA,SACANDICA,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.5190058008926,-7.5648227484212,,215-01,EN215,0,75.83,75.83,Ponte Freitas Morna,Quibala Norte,Primary,ZAIRE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+13.7398997524287,-7.29926102657256,,215-02,EN215,0,26.74,26.74,Quibala Norte,Quimaria,Primary,ZAIRE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+13.8660173567061,-7.2278484462386,,215-03,EN215,0,19.38,19.38,Quimaria,Mapata,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.178412788499,-7.19660652899433,,215-04,EN215,0,31.3,31.3,Mapata,Toto,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.2208134781503,-7.09729957795167,,215-05,EN215,0,15.52,15.52,Toto,Bembe,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.7004635133159,-6.76342098769088,,215-07,EN215,0,21.57,21.57,Lucunga,Chimacongo,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.1455870548265,-6.63560058758266,,215-09,EN215,0,32.03,32.03,Damba,Camatombo,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.3422713153179,-6.49878769540569,,215-10,EN215,0,52.96,52.96,Camatombo,Cuilo Futa,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+16.0259987091769,-6.53411480304577,,215-12,EN215,0,18.5,18.5,Quinsolo,Quimbele,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.0316772050741,-7.93713376708016,,220-02,EN220,0,57.21,57.21,Bela Vista,Nambuangongo,Primary,BENGO,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.4353639091582,-7.92949029314423,,220-05,EN220,0,23.17,23.17,Quixico,Quipedro,Primary,BENGO,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.5178006940134,-7.78412252551785,,220-06,EN220,0,36.53,36.53,Quipedro,S. JosÇ do Encoje,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.7158760720368,-7.3641690032481,,220-09,EN220,0,21.24,21.24,S. Esperanáa,Songo,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.6053618825911,-7.39987351085945,,220-08,EN220,0,12.52,12.52,Nova Caipemba,S. Esperanáa,Primary,UIGE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.2837509121024,-7.68629441843797,,220-12,EN220,0,52.81,52.81,Negage,Puri,Primary,UIGE,7.9,2,Paved,Good,200,Paved,2 assumptions made: Based on map information road is paved and traffic assumed a maximum of 200 cars/day
+15.7154320430409,-7.61349974038554,,220-13,EN220,0,27.38,27.38,Puri,AlfÉndega,Primary,UIGE,7.9,2,Paved,Good,200,Paved,2 assumptions made: Based on map information road is paved and traffic assumed a maximum of 200 cars/day
+14.2620982301218,-8.6010123717831,,225-03,EN225,0,38.65,38.65,Ucua,Piri,Primary,BENGO,7.9,2,Paved,Good,200,Paved,2 assumptions made: Based on map information road is paved and traffic assumed a maximum of 200 cars/day
+14.395507720687,-8.53088382705408,,225-04,EN225,0,9.51,9.51,Piri,Quibaxe,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,Assume half paved and half gravel
+14.8900369632714,-8.57838946483701,,225-08,EN225,0,16.76,16.76,Quiambata,Camongua,Primary,CUANZA NORTE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+14.9587123114154,-8.58806224281792,,225-09,EN225,0,20.37,20.37,Camongua,Aldeia Nova,Primary,CUANZA NORTE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+15.0177151590806,-8.52809219314532,,225-10,EN225,0,22.37,22.37,Aldeia Nova,Terreiro,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.163639920525,-8.45212238723695,,225-11,EN225,0,19.6,19.6,Terreiro,Bolongongo,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.2537265645254,-8.51745236624358,,225-12,EN225,0,10.52,10.52,Bolongongo,Quiculungo,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.4693768536708,-8.51538075885133,,225-14,EN225,0,13.96,13.96,Pambos de Sonhe,Senda,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.6319885481215,-8.53964236733898,,225-16,EN225,0,11.49,11.49,Luinga,Guzo,Primary,CUANZA NORTE,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+15.6773990628078,-8.52325535566271,,225-17,EN225,0,23.65,23.65,Guzo,Cateco Cangola,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+16.0236651302883,-8.45361339297468,,225-18,EN225,0,71.24,71.24,Cateco Cangola,Cuale,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assume half paved and half gravel
+16.3467299569252,-8.3017532619037,,225-19,EN225,0,25.57,25.57,Cuale,Huamba,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+16.3863875331582,-8.32980392818149,,225-20,EN225,0,20.96,20.96,Huamba,Quizela,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+16.4366849400846,-8.40041398521189,,225-21,EN225,0,20.09,20.09,Quizela,Samba,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+16.5750031497213,-8.41008643349228,,225-22,EN225,0,18.42,18.42,Samba,Bange Angola,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+18.82364642656,-8.38744672286289,,225-27,EN225,0,36.52,36.52,Caungula,Camaxilo,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.7106545919231,-8.28647892376738,,225-29,EN225,0,20.08,20.08,Cu°lo,Caluango,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.3170329391987,-8.34136146199069,,225-31,EN225,0,74.2,74.2,Capaia,Caimbungo,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.6414850479302,-8.16314965172458,,225-32,EN225,0,20.19,20.19,Caimbungo,Camissombo,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.2404136955445,-8.88433658779893,,230-01,EN230,0,17.35,17.35,Luanda,Viana,Primary,LUANDA,7.9,2,Paved,Good,7000,Paved,
+15.3003780526665,-9.31584730824495,,230-07,EN230,0,28.23,28.23,Lucala,Quizenga,Primary,CUANZA NORTE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.5441269451236,-9.40174506917422,,230-08,EN230,0,22.29,22.29,Quizenga,Cacuso,Primary,MALANJE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.4290141550019,-9.51567813051863,,230-11,EN230,0,42.93,42.93,Malange,Catala,Primary,MALANJE,7.9,2,Paved,Good,500,Paved,
+16.8070928534213,-9.47579179967715,,230-12,EN230,0,14.21,14.21,Catala,Caculama,Primary,MALANJE,7.9,2,Paved,Good,500,Paved,
+16.8731365503362,-9.47783088309804,,230-13,EN230,0,7.92,7.92,Caculama,Mucari,Primary,MALANJE,7.9,2,Paved,Good,500,Paved,
+17.0162720981662,-9.43003630905644,,230-14,EN230,0,26.75,26.75,Mucari,Cabatuquila,Primary,MALANJE,7.9,2,Paved,Good,500,Paved,
+17.1428869679985,-9.39794178495849,,230-15,EN230,0,9.04,9.04,Cabatuquila,Xandel,Primary,MALANJE,7.9,2,Paved,Good,500,Paved,
+18.0597839695056,-9.38729855995872,,230-17,EN230,0,57.13,57.13,Xamuteba,Rio Cuango,Primary,LUNDA NORTE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+18.3327941901796,-9.3323364297269,,230-18,EN230,0,35.49,35.49,Rio Cuango,Capenda Camulemba,Primary,LUNDA NORTE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+20.2446686432382,-9.80567311825342,,230-22,EN230,0,53.83,53.83,Mona Quimbundo,Saurimo,Primary,LUNDA SUL,7.9,2,Paved,Good,1184,Paved,
+15.0510202695085,-10.7310505140571,,240-03,EN240,0,14.27,14.27,Quibala,Zumba,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.185121943429,-10.6638245862735,,240-04,EN240,0,31.34,31.34,Zumba,Caringo,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.9018080076754,-10.5697691595675,,240-06,EN240,0,28.71,28.71,Quitubia,Mussende,Primary,CUANZA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.8864469314143,-10.7305498131976,,240-08,EN240,0,39.8,39.8,Chimbamba,Quissonde,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(No info on how they link)
+17.4549744697289,-10.6134246993343,,240-11,EN240,0,24.57,24.57,Capunda,Goi Fumo,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.0091642417058,-11.1725450702896,,240-17,EN240,0,55.21,55.21,Luma Cassai,Dala,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.5132471794075,-11.1311719034919,,240-19,EN240,0,48.25,48.25,Chimbila,Cazage,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+22.1627900093911,-10.6965027113013,,240-22,EN240,0,35.36,35.36,Cassai,Luau,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.8576396630712,-11.3040258089682,,245-01,EN245,0,13.39,13.39,Sumbe,Hote,Primary,CUANZA SUL,7.9,2,Paved,Good,507,Paved,
+13.8862189118803,-11.3498717389253,,245-02,EN245,0,11.24,11.24,Hote,Quilenda,Primary,CUANZA SUL,7.9,2,Paved,Good,507,Paved,
+14.3172906322729,-11.4302511737088,,245-04,EN245,0,15.69,15.69,Uku-Seles,Aquepa,Primary,CUANZA SUL,7.9,2,Paved,Good,507,Paved,
+14.4790019469711,-11.4939592124627,,245-05,EN245,0,38.49,38.49,Aquepa,Amboiva,Primary,CUANZA SUL,7.9,2,Paved,Good,507,Paved,
+14.7775370840437,-11.4540672845156,,245-06,EN245,0,29.14,29.14,Amboiva,Mussango,Primary,CUANZA SUL,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.9609211977238,-11.3367729600908,,245-07,EN245,0,12.82,12.82,Mussango,Colo-Colo,Primary,CUANZA SUL,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+13.8991789692058,-12.3991950459,,250-01,EN250,0,32.09,32.09,Lobito (Prox.),Bocoio,Primary,BENGUELA,7.9,2,Paved,Good,287,Paved,
+14.3507079851882,-12.4290771848664,,250-02,EN250,0,85.55,85.55,Bocoio,Balombo,Primary,BENGUELA,7.9,2,Paved,Good,287,Paved,
+15.3139037896443,-12.2153625539103,,250-04,EN250,0,34.21,34.21,Luimbale,Alto Hama,Primary,HUAMBO,7.9,2,Paved,Good,287,Paved,
+15.6773071205973,-12.1723632820364,,250-05,EN250,0,30.69,30.69,Alto Hama,Bailundo,Primary,HUAMBO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.2172785199184,-12.5398328202979,,250-07,EN250,0,17.93,17.93,Catchiungo,Chinguar,Primary,HUAMBO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+17.203867764875,-12.1737636545212,,250-09,EN250,0,47.38,47.38,Kuito,CATABOLA,Primary,BIE,7.9,2,Paved,Good,325,Paved,
+17.3046446510864,-12.0847394320958,,250-10,EN250,0,25.94,25.94,CATABOLA,Camacupa,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.6612651586659,-11.9787140839374,,250-11,EN250,0,64.18,64.18,Camacupa,Chindumba,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.0468014648756,-12.0665434057626,,250-12,EN250,0,17.03,17.03,Chindumba,Cuemba,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.0178291544246,-11.7197886035121,,250-16,EN250,0,67.01,67.01,Luena,LÇua,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.6851042458238,-11.6102870212585,,250-17,EN250,0,38.01,38.01,LÇua,Lumege,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.370632586292,-12.8970174027761,,260-14,EN260,0,180.04,180.04,Mutumbo,Shingue,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.4138467082392,-13.5731076681989,,260-17,EN260,0,87.79,87.79,Samussango,Cangamba,Primary,MOXICO,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+13.8715948263935,-13.0232904818819,,260-01,EN260,0,64.06,64.06,Catenque,Cubal,Primary,BENGUELA,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.2723533344631,-12.9932881621437,,260-02,EN260,0,49.81,49.81,Cubal,Ganda,Primary,BENGUELA,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.7612186731628,-12.9183343666395,,260-03,EN260,0,38.22,38.22,Ganda,Tchindjende,Primary,BENGUELA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.8693848193612,-12.8175048632721,,260-04,EN260,0,21.53,21.53,Tchindjende,Ucuma,Primary,HUAMBO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.1689147443319,-12.8653563817915,,260-05,EN260,0,23.14,23.14,Ucuma,Longonjo,Primary,HUAMBO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.943393581221,-12.8876135044179,,260-09,EN260,0,42.67,42.67,Cruzeiro,Sambo,Primary,HUAMBO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.3392255421582,-13.0158527511304,,260-10,EN260,0,44.42,44.42,Sambo,Chinhama,Primary,HUAMBO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.5427059806363,-13.076552349576,,260-11,EN260,0,37.51,37.51,Chinhama,Cachingue,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.8645101802978,-13.1022005377186,,260-12,EN260,0,52.97,52.97,Cachingue,Cativa,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.3099280804382,-13.133832940482,,260-13,EN260,0,25.64,25.64,Cativa,Mutumbo,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.9171331735672,-13.4405937284137,,260-16,EN260,0,28.74,28.74,TempuÇ,Samussango,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.364928020333,-15.0420718970175,,280-04,EN280,0,17.83,17.83,Leba,Humpata,Primary,HUILA,7.9,2,Paved,Good,2110,Paved,
+13.4587065207723,-14.9599833586018,,280-05,EN280,0,21.04,21.04,Humpata,Lubango,Primary,HUILA,7.9,2,Paved,Good,2110,Paved,
+13.2565896368507,-15.042072043415,,280-03,EN280,0,9.27,9.27,Tampa,Leba,Primary,NAMIBE,7.9,2,Paved,Good,2110,Paved,
+15.7749141966874,-14.5156008866246,,280-10,EN280,0,66.3,66.3,Dongo,Cuvango,Primary,HUILA,7.9,2,Paved,Good,82,Paved,
+16.3541386740338,-14.3824687238052,,280-11,EN280,0,29.42,29.42,Cuvango,Cutato,Primary,HUILA,7.9,2,Paved,Good,82,Paved,
+16.6174295312548,-14.5195746964893,,280-12,EN280,0,57.71,57.71,Cutato,Cuchi,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,82,Track,
+20.4015622640357,-15.7767611941965,,280-18,EN280,0,53.87,53.87,Mavinga,Samutango,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.5263383360155,-16.8242829431116,,295-01,EN295,0,29.08,29.08,Espinheira,Iona,Primary,NAMIBE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.7909936520057,-16.8326133310765,,295-02,EN295,0,24.03,24.03,Iona,Manaculama,Primary,NAMIBE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.8737714969931,-16.7412723580814,,295-03,EN295,0,38.92,38.92,Manaculama,Muimba,Primary,NAMIBE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.1307113767026,-16.6870396303573,,295-04,EN295,0,46.88,46.88,Muimba,Oncocua,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.394816570724,-17.2655747474439,,295-06,EN295,0,80.44,80.44,Chitado,Calueque,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.7066729601461,-17.1620863710198,,295-07,EN295,0,14.48,14.48,Calueque,Naulila,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.1447903847609,-16.6952514540692,,295-09,EN295,0,40.58,40.58,Xangongo,Mongua,Primary,CUNENE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+14.9693908691406,-16.687255859375,,110-27,EN110,0,7.74,7.74,HUMBE,XANGONGO,Primary,CUNENE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+18.7252196505371,-17.6994628152724,,295-15,EN295,0,132.31,132.31,Cuangar,Calai,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.3893162914122,-17.8995249855531,,295-16,EN295,0,119.54,119.54,Calai,Dirico,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+21.2335655845069,-17.978409638577,,295-17,EN295,0,5,5,Dirico,Mucusso,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.2394117620816,-17.181071652571,,295-14,EN295,0,116.35,116.35,Savate,Cuangar,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+23.2466012937356,-17.8016453817781,,295-18,EN295,0,285.32,285.32,Mucusso,Luiana (Faltou ?),Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.2966553971712,-7.97764941353144,,220-04,EN220,0,13.63,13.63,Gombe,Quixico,Primary,BENGO,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+14.1567979552404,-8.01526618968966,,220-03,EN220,0,12.8,12.8,Nambuangongo,Gombe,Primary,BENGO,5.5,2,Unpaved,Fair,75,Gravel,2 assumptions made: Based on map information road is gravel and traffic assumed a maximum of 75 cars/day
+12.5347735945972,-14.6658944439863,,100-26,EN100,0,100.51,100.51,BENTIABA,NAMIBE,Primary,NAMIBE,6,2,Paved,Good,173,Paved,
+12.4027116610098,-14.0770769506229,,100-25,EN100,0,66.06,66.06,LUCIRA,BENTIABA,Primary,NAMIBE,6,2,Paved,Good,81,Paved,
+13.9447844363563,-12.0074162680225,,100-19,EN100,0,6.49,6.49,CANJALA,BALABAIA,Primary,BENGUELA,7,2,Paved,Good,806,Paved,
+13.9069938748239,-11.8235105317119,,100-18,EN100,0,29.71,29.71,RIO E VALE,CANJALA,Primary,BENGUELA,7,2,Paved,Good,806,Paved,
+17.5591308271137,-8.25932262124896,,165-01,EN165,0,31.52,31.52,CATOLO,CATCHINGA,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.8205985222541,-8.51464305121022,,165-02,EN165,0,51.71,51.71,CATCHINGA,LUREMO,Primary,LUNDA NORTE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.9225366129454,-9.29197740254781,,165-04,EN165,0,39.59,39.59,CUANGO,CRUZ (EN230),Primary,LUNDA NORTE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+15.88871945353,-17.0490342170365,,295-11,EN295,0,34.87,34.87,Ondjiva,Chiede,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+17.5101785231629,-16.9243066989215,,295-13,EN295,0,157.66,157.66,Jofima,Savate,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.247310389399,-17.0992715470053,,295-12,EN295,0,56.61,56.61,Chiede,Jofima,Primary,CUNENE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.0820159630865,-15.7613816724683,,160-42,EN160,0,149.01,149.01,CUITO CUANAVALE,NANCOVA,Primary,CUANDO CUBANGO,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+20.3431477274593,-17.8141854372783,,160-47,EN160,0,11.66,11.66,XAMAVERA,MUTERO,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.9343192983494,-17.4555943998811,,160-46,EN160,0,110.41,110.41,MAVENGUE,XAMAVERA,Primary,CUANDO CUBANGO,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.4250160804606,-17.0086548436444,,160-45,EN160,0,50.77,50.77,MAUE,MAVENGUE,Primary,CUANDO CUBANGO,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+19.0664250053567,-16.7262859935312,,160-44,EN160,0,43.75,43.75,RITO,MAUE,Primary,CUANDO CUBANGO,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+18.9607533001032,-16.4872253891945,,160-43,EN160,0,22.66,22.66,NANCOVA,RITO,Primary,CUANDO CUBANGO,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+13.0064112185218,-13.1515299773448,,100-23,EN100,0,53.79,53.79,DOMBE GRANDE,RIO CATARA,Primary,BENGUELA,6,2,Paved,Good,173,Paved,
+14.4744145832005,-8.4624785470477,,120-12,EN120,0,19.45,19.45,PONTE DO SANGUE,QUIBAXE,Primary,CUANZA NORTE,8,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+16.0089863230385,-14.5504893619308,,120-34,EN120,0,23.38,23.38,COLUI,JAMBA,Primary,HUILA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.2012181478349,-14.8810813929526,,120-35,EN120,0,78.27,78.27,JAMBA,CASSINGA,Primary,HUILA,6,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+16.3755575482315,-11.4751333320957,,140-22,EN140,0,14.13,14.13,CUTATO,BUANGA,Primary,BIE,7.9,2,Paved,Good,200,Paved,Assumed a minimum of 200 cars for all paved roads with no traffic information available.
+18.5218114116652,-12.081781871503,,160-30,EN160,0,14.55,14.55,ICIENGO,MUNHANGO,Primary,BIE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+12.079681373673,-5.36065675300703,,202-01,EN202,0,10.66,10.66,MALEMBO(CLOSE),SASSAZAU,Primary,CABINDA,7.9,2,Paved,Good,200,Paved,
+15.1069030761719,-6.03219604492188,,210-10,EN210,0,22.21,22.21,MAQUELA DO ZOMBO,BEU (CLOSE TO THE BORDER),Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.2630004863273,-6.042694117997,,210-11,EN210,0,38.2,38.2,BEU (CLOSE TO THE BORDER),SAMBA,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.3735961914062,-6.1929931640625,,210-12,EN210,0,15.88,15.88,SAMBA,BEU,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.4982909519724,-6.18994158226887,,210-13,EN210,0,17.46,17.46,BEU,BANZA VOGO,Primary,UIGE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+14.8107215986194,-8.68962450991779,,225-07,EN225,0,14.97,14.97,Buta Atumba,Quiambata,Primary,CUANZA NORTE,5.5,2,Unpaved,Poor,20,Track,2 assumptions made: Based on map information road is a track and traffic assumed a maximum of 20 cars/day
+20.269096411897,-11.19542210896,,240-18,EN240,0,9.43,9.43,Dala,Chimbila,Primary,LUNDA SUL,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.
+15.9072367237272,-13.8925745561993,,120-30,EN120,0,29.28,29.28,CHIPINDO,CHICUNHO,Primary,HUILA,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find place CHICUNHO)
+17.4403705629847,-15.6846705411838,,140-35,EN140,0,7.12,7.12,CAIUNDO,CABINDELE,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,407,Track,
+16.4691942732663,-7.64672445809245,,160-08,EN160,0,12.87,12.87,QUIMESSE,QUIPANGE,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,"Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find the place ""QUIPANGE"")"
+19.0805062098514,-14.0390815068963,,160-36,EN160,0,65.06,65.06,CAMEIA,VUNGA,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find place VUNGA)
+18.9573789924556,-14.3171106692503,,160-37,EN160,0,11.58,11.58,VUNGA,RIO KUITO,Primary,MOXICO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find place VUNGA)
+18.8700396604578,-14.3862632022523,,160-38,EN160,0,6.76,6.76,RIO KUITO,XISSENDE,Primary,CUANDO CUBANGO,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find place XISSENDE)
+17.2985226265216,-10.7057569499129,,240-09,EN240,0,26.32,26.32,Quissonde,Chiminha,Primary,MALANJE,5.5,2,Unpaved,Poor,20,Track,Assumed a maximum of 20 cars for all track roads with no traffic information available.(Can't find place Chiminha)

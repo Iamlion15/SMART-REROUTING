@@ -1,4 +1,6 @@
 from flask import Flask, render_template, request
+from SCRIPT.AI_project import find_optimal_path
+
 
 app = Flask(__name__)
 
@@ -17,8 +19,15 @@ def route():
         # destination = request.form['destination']
         origin = request.args.get('origin')
         destination = request.args.get('destination')
-        best_route = f"The best route from {origin} to {destination}"     
-        return render_template('rerouteResult.html', best_route=best_route)
+        best_route = f"The best route from {origin} to {destination}"  
+        result = find_optimal_path( origin, destination)  
+        if result==None:
+            print("nooooooooooooooooooooooooo") 
+            return render_template('noDataFound.html')
+        else:    
+            print('------------result-------------')
+            print(result[0])
+            return render_template('rerouteResult.html',dataFound="yes", optimal_path=result[0],all_routes=result[2],optimal_score=result[1],origin=origin,destination=destination)
     
 
 if __name__ == '__main__':

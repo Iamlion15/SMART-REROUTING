@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,12 +9,14 @@
     <link href="{{ url_for('static', filename='css/output.css') }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
 </head>
+
 <body class="bg-gradient-to-br from-blue-500 to-blue-400 min-h-screen flex flex-col">
     <header class="py-4 px-6 ">
         <div class="container mx-auto flex justify-between items-center">
             <h1 class="text-2xl font-bold text-white">Real-time traffic rerouting System</h1>
             <a href="/" class="inline-block relative group">
-                <button id="planRouteBtn" class="bg-white text-blue-600 px-6 py-2 font-sans transition-all duration-300 group-hover:bg-gray-100">
+                <button id="planRouteBtn"
+                    class="bg-white text-blue-600 px-6 py-2 font-sans transition-all duration-300 group-hover:bg-gray-100">
                     Plan route
                 </button>
                 <div class="absolute -top-0.5 -right-0.5 -bottom-0.5 -left-0.5 border border-white"></div>
@@ -21,11 +24,60 @@
         </div>
     </header>
 
-    <main class="flex-grow flex items-center justify-center px-4 py-12">
-        <div class="container mx-auto">
-            <div class="bg-white rounded-lg shadow-2xl overflow-hidden max-w-md mx-auto p-8">
-                <h2 class="font-['Nunito'] text-3xl font-bold mb-6 text-gray-800 text-center">Road Routing Tree <p>{{ best_route }}</p></h2>
+    <main
+        class="bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-auto my-auto"
+        style="width: 80%; margin-top: 100px;">
+        <ul class="flex text-sm font-medium text-center text-gray-500 border-b border-gray-200 rounded-t-lg bg-gray-50 dark:border-gray-700 dark:text-gray-400 dark:bg-gray-800"
+            id="defaultTab" role="tablist">
+            <li class="mr-2">
+                <button id="optimal-tab"
+                    class="inline-block p-4 text-blue-600 rounded-tl-lg hover:bg-gray-100 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-blue-500"
+                    type="button" role="tab">OPTIMAL ROUTE</button>
+            </li>
+            <li class="mr-2">
+                <button id="all-tab"
+                    class="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+                    type="button" role="tab">AVAILABLE ROUTES</button>
+            </li>
+            <li class="mr-2">
+                <button id="statistics-tab"
+                    class="inline-block p-4 hover:text-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-gray-300"
+                    type="button" role="tab">STATISTICS</button>
+            </li>
+        </ul>
+        <div id="defaultTabContent">
+            <div class="p-4 bg-white rounded-lg md:p-8 dark:bg-gray-800" id="optimal" role="tabpanel">
                 <div id="tree-container"></div>
+            </div>
+
+            <div class="hidden p-4 bg-white rounded-lg md:p-8 dark:bg-gray-800" id="all" role="tabpanel">
+                <div id="route-container"></div>
+            </div>
+
+            <div class="hidden p-4 bg-white rounded-lg md:p-8 dark:bg-gray-800" id="statistics" role="tabpanel">
+                <div class="max-w-lg mx-auto p-6" style="font-family: Nunito;">
+                    <div class="overflow-hidden bg-white shadow rounded-lg">
+                        <table class="min-w-full table-auto">
+                            <thead class="bg-gray-100 text-gray-600">
+                                <tr>
+                                    <th class="py-3 px-6 text-left font-medium">Origin</th>
+                                    <th class="py-3 px-6 text-left font-medium">Destination</th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-gray-700">
+                                <tr class="border-t hover:bg-gray-50">
+                                    <td class="py-4 px-6">{{origin}}</td>
+                                    <td class="py-4 px-6">{{destination}}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="mt-6 flex justify-between items-center bg-blue-50 p-4 rounded-lg shadow-md">
+                        <p class="text-lg font-semibold text-gray-700">Optimal Score</p>
+                        <p class="text-xl font-bold text-blue-600"><span id="score"></span> %</p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </main>
@@ -45,32 +97,79 @@
     </footer>
 
     <script>
-        // const locations = ["Angola", "Luanda", "Caxito (EN100)", "N'dalatando (EN230)", "Malanje (EN250)", "Saurimo (EN230)"];
-        const best_route = "{{ best_route }}";
-        const locations = best_route;
-        console.log(best_route)
-        function createTree(array) {
-            const container = document.createElement('div');
-            container.classList.add('space-y-2');
+        const optimal_path = {{ optimal_path | tojson }};
+        const all_routes = {{ all_routes | tojson }};
+        let optimal_score = {{ optimal_score | tojson}}
+        optimal_score=Number(optimal_score)
+        optimal_score=optimal_score*100
+        const origin = {{ origin | tojson}}
+        const destination = {{ destination | tojson}}
+        const cities = optimal_path //['Kigali', 'Dar es Salaam', 'Mombasa', 'Nairobi', 'Malindi'];
+        const routes = all_routes
+        document.getElementById('score').innerHTML = optimal_score.toFixed(2);
+        function buildTree(cities) {
+            let html = '';
+            cities.forEach((city, index) => {
+                const indent = ' '.repeat(index * 4);
 
-            array.forEach((location, index) => {
-                const div = document.createElement('div');
-                div.classList.add('py-1', 'text-lg');
-                
-                if (index === 0) {
-                    div.classList.add('font-bold', 'text-blue-600');
-                } else {
-                    div.classList.add('text-gray-700', 'pl-' + (index * 4));
+                if (index > 0) {
+                    html += `${indent}|  <br>`;
                 }
-
-                div.innerText = location;
-                container.appendChild(div);
+                html += `${indent}+--- ${city}<br>`;
             });
 
-            return container;
+            return html;
         }
 
-        document.getElementById('tree-container').appendChild(createTree(locations));
+        document.getElementById('tree-container').innerHTML = buildTree(cities);
+        function buildRouteStructure(routes) {
+            let html = '<div style="font-family: Nunito; margin: 20px;">';
+
+            routes.forEach((route, index) => {
+                const routeStr = route.join(' -> '); 
+                html += `
+      <div style="margin-bottom: 20px;">
+        <div style="border-bottom: 1px dashed #000; padding-bottom: 5px; margin-bottom: 10px; text-align: center;">
+          <strong>Route ${index + 1}: ${routeStr}</strong>
+        </div>
+      </div>
+    `;
+            });
+
+            html += '</div>';
+            return html;
+        }
+        document.getElementById('route-container').innerHTML = buildRouteStructure(routes);
+    </script>
+    <script>
+        const tabButtons = document.querySelectorAll('[role="tab"]');
+        const tabContents = document.querySelectorAll('[role="tabpanel"]');
+        function setActiveTab(tabId) {
+            tabButtons.forEach(button => {
+                if (button.id === tabId) {
+                    button.classList.add('text-blue-600', 'dark:text-blue-500');
+                    button.classList.remove('hover:text-gray-600', 'dark:hover:text-gray-300');
+                } else {
+                    button.classList.remove('text-blue-600', 'dark:text-blue-500');
+                    button.classList.add('hover:text-gray-600', 'dark:hover:text-gray-300');
+                }
+            });
+
+            tabContents.forEach(content => {
+                if (content.id === tabId.replace('-tab', '')) {
+                    content.classList.remove('hidden');
+                } else {
+                    content.classList.add('hidden');
+                }
+            });
+        }
+        tabButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                setActiveTab(button.id);
+            });
+        });
+        setActiveTab('optimal-tab');
     </script>
 </body>
+
 </html>
